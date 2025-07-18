@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/1200x/dc/16/3b/dc163b42fb863411d390c6dfba7ebf73.jpg)
 <h1 align="center">Hi 👋, I'm Gizem Yerlikaya</h1>
-<h3 align="center">A passionate frontend developer and web designer from Türkiye</h3>
+<h3 align="center">I am currently a passionate front-end developer and web designer in Türkiye.</h3>
 
 - 🌱 I’m currently learning **React**
 
